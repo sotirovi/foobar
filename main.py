@@ -11,5 +11,5 @@ class Laptop:
 
     @classmethod
     def made_in_other(cls):
-        cls.made_in = "China"
+        cls.made_in = "Neverland"
         return f"{cls.made_in}"
