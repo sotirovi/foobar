@@ -5,9 +5,11 @@
 ```pycon
 while True:
     print("Hi")
-    break
+    print("Hi")
+        break
 ```
 
 ```
-малко глупав код
+редакция
+
 ```

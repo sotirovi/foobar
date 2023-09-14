@@ -1,9 +1,10 @@
 class Laptop:
     made_in = "Germany"
 
-    def __init__(self, memory:int, model:str):
+    def __init__(self, memory:int, model:str, price: float):
         self.memory = memory
         self.model = model
+        self.price = price
 
     @classmethod    # създава точно определена инстанция на класа
     def low_ram_laptop(cls):
