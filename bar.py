@@ -1,7 +1,3 @@
-# Bar file
+print("Hello world!")
 
-
-
-# tadaaa
-
-
+print("Second")
